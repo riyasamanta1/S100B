@@ -194,5 +194,4 @@ else:
 	fig.savefig(alpha+'_'+conc1+'_BC_'+bc_type+'_normalized_cutoff_'+str(cutoff1)+'_heavy_atoms_cutoff2_subunitI'+str(cutoff2)+'_min_'+str(mincutoff)+'_max_'+str(maxcutoff)+'_boxplots.tif')
 
 
-#fig.savefig(protein+'_120mM.tif')
 plt.close()
